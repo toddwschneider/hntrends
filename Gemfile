@@ -5,7 +5,7 @@ ruby '2.6.6'
 
 gem 'rails', '~> 5.2.3'
 
-gem 'addressable', '~> 2.6'
+gem 'addressable', '~> 2.8'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'clockwork', '~> 2.0'
 gem 'delayed_job_active_record', '~> 4.1'
